@@ -1,0 +1,8 @@
+{"timestamp": "2024-12-06 15:52:03,282", "level": "ERROR", "message": "Image is anomalous and cannot be classified.", "module": "app", "funcName": "api_predict", "lineNo": 110}
+{"timestamp": "2024-12-06 16:00:36,636", "level": "ERROR", "message": "No file uploaded.", "module": "app", "funcName": "api_predict", "lineNo": 102}
+{"timestamp": "2024-12-06 16:00:56,075", "level": "ERROR", "message": "Invalid file type.", "module": "app", "funcName": "api_predict", "lineNo": 117}
+{"timestamp": "2024-12-06 16:01:09,244", "level": "ERROR", "message": "HTTP Exception: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.", "module": "app", "funcName": "handle_http_exception", "lineNo": 54}
+{"timestamp": "2024-12-06 16:01:15,225", "level": "ERROR", "message": "Image is anomalous and cannot be classified.", "module": "app", "funcName": "api_predict", "lineNo": 110}
+{"timestamp": "2024-12-06 16:01:37,719", "level": "ERROR", "message": "Image is anomalous and cannot be classified.", "module": "app", "funcName": "api_predict", "lineNo": 110}
+{"timestamp": "2024-12-06 16:01:40,618", "level": "ERROR", "message": "HTTP Exception: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.", "module": "app", "funcName": "handle_http_exception", "lineNo": 54}
+{"timestamp": "2024-12-06 16:01:49,934", "level": "ERROR", "message": "Invalid file type.", "module": "app", "funcName": "api_predict", "lineNo": 117}
